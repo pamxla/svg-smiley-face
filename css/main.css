@@ -5,16 +5,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
- .face {
-   fill: gold;
- }
 
- .mouth {
-   fill: none;
-   stroke: #000;
-   stroke-width: 6px;
-   stroke-linecap: round;
- }
+.face {
+  fill: gold;
+}
+
+.mouth {
+  fill: none;
+  stroke: #000;
+  stroke-width: 6px;
+  stroke-linecap: round;
+}
 
 .left-eyebrow {
   transform: rotate(80deg);
