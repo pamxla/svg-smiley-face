@@ -8,3 +8,7 @@ html {
  .face {
    fill: gold;
  }
+
+ .mouth {
+   fill: none;
+ }
