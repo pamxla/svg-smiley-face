@@ -11,4 +11,11 @@ html {
 
  .mouth {
    fill: none;
+   stroke: #000;
+   stroke-width: 6px;
+   stroke-linecap: round;
  }
+
+.left-eyebrow {
+  transform: rotate(80deg);
+}
